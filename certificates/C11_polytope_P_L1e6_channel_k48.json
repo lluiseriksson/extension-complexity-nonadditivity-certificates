@@ -1,0 +1,12 @@
+{
+  "schema": "XC-NONADD-CERT-1.0",
+  "id": "C11_polytope_P_L1e6_channel_k48",
+  "mode": "polytope_p_and_transfer",
+  "scale_L": 1000000,
+  "claimed_dim": 24,
+  "claimed_facets": 50,
+  "claimed_vertices": 150,
+  "claimed_xc_P": 40,
+  "claimed_xc_PP": 79,
+  "simplex_k_cor15": 48
+}

@@ -1,0 +1,11 @@
+{
+  "schema": "XC-NONADD-CERT-1.0",
+  "id": "C14_thm2_linear_n27",
+  "mode": "unbounded_and_square_deficits",
+  "submode": "linear_deficit_prop11",
+  "num_blocks_n": 27,
+  "claimed_rank_M2n": 2025,
+  "claimed_rank_M3n_lb": 1976,
+  "claimed_rank_prod_ub": 3996,
+  "claimed_deficit_lb": 5
+}

@@ -1,0 +1,10 @@
+{
+  "schema": "XC-NONADD-CERT-1.0",
+  "id": "C02_six_cycle_S_L2e6",
+  "mode": "six_cycle_matrix_factorizations",
+  "scale_L": 2000000,
+  "verify_one_product_27": false,
+  "claimed_ordinary_rank_S": 12,
+  "claimed_nonneg_rank_S": 14,
+  "claimed_nonneg_rank_S_prod": 27
+}

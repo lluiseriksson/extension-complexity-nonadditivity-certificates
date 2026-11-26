@@ -1,0 +1,16 @@
+{
+  "schema": "XC-NONADD-CERT-1.0",
+  "id": "C16_thm2_square_R5",
+  "mode": "unbounded_and_square_deficits",
+  "submode": "identical_square_Rt",
+  "num_blocks_t": 5,
+  "claimed_j_sequence": [
+    2,
+    4,
+    12,
+    36,
+    108
+  ],
+  "claimed_cover_Ct": 162,
+  "claimed_square_deficit_lb": 5
+}

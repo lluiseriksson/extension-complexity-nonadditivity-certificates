@@ -1,0 +1,27 @@
+{
+  "schema": "XC-NONADD-CERT-1.0",
+  "id": "C07_prop9_d2_L2e6_tighter",
+  "mode": "lower_bound_proposition9",
+  "power_d": 2,
+  "scale_L": 2000000,
+  "tau": [
+    1,
+    10000
+  ],
+  "beta": [
+    1,
+    200
+  ],
+  "eps": [
+    5201,
+    2000000
+  ],
+  "claim2_probe_bound": [
+    1313,
+    5000
+  ],
+  "claim3_alternating_bound": [
+    39,
+    50
+  ]
+}

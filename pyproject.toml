@@ -1,0 +1,9 @@
+[project]
+name = "extension-complexity-nonadditivity-certificates"
+version = "1.0.0"
+description = "Formal Certification of Non-Additivity of Polytope Extension Complexity (arXiv:2611.33631)"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

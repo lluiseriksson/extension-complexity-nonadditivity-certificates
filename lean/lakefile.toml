@@ -1,0 +1,5 @@
+name = "ExtensionComplexityNonaddCert"
+defaultTargets = ["ExtensionComplexityNonaddCert"]
+
+[[lean_lib]]
+name = "ExtensionComplexityNonaddCert"
